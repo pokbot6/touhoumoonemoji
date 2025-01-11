@@ -20,7 +20,7 @@ pip install windows-curses  # Only for Windows users
 ```
 
 ### 2. Video Frames
-You need the individual video frames for the animation as PNG files. Extract the frames from the "Bad Apple" video using a tool like `ffmpeg`:
+You need the individual video frames for the animation as PNG files. Extract the frames from the "[Bad Apple](https://www.youtube.com/watch?v=FtutLA63Cp8)" video using a tool like `ffmpeg`:
 
 ```bash
 ffmpeg -i bad_apple.mp4 -vf "scale=60:30" frames/frame_%04d.png
