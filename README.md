@@ -1,5 +1,7 @@
 # Tutorial: Running the "Bad Apple" Animation in Emojis on Your Terminal
 
+https://www.youtube.com/watch?v=glo_xlNPFyY
+
 This tutorial will guide you through the steps to set up and run the "Bad Apple" animation in emojis on your terminal. It includes preprocessing the frames to improve performance and ensures smooth playback.
 
 ---
