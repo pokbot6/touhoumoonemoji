@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
 Run the script:
 ```bash
-python preprocess_frames.py
+python generate_frames.py
 ```
 This will create a file named `frames/emoji_frames.txt` containing all the preprocessed frames.
 
